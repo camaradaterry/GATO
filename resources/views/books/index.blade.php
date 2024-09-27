@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="text-center">Catálogo de Libros</h1>
+        <h1 class="text-center">Catálogo de LibrosSSSS</h1>
 
         <ul class="nav nav-tabs justify-content-center mb-4">
             <li class="nav-item">
